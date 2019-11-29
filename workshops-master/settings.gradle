@@ -1,0 +1,2 @@
+include ':app', ':workshop3', ':workshop_3', ':workshop4_login'
+rootProject.name='workshop2'
